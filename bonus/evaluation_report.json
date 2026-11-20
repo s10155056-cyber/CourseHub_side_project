@@ -1,0 +1,58 @@
+{
+  "total_cases": 10,
+  "passed": 10,
+  "failed": 0,
+  "pass_rate": 100.0,
+  "results": [
+    {
+      "case_id": 1,
+      "name": "R1 學生能查詢自己的選課",
+      "status": "PASS"
+    },
+    {
+      "case_id": 2,
+      "name": "R1 學生無法查詢其他學生的選課",
+      "status": "PASS"
+    },
+    {
+      "case_id": 3,
+      "name": "時間衝突檢測",
+      "status": "PASS"
+    },
+    {
+      "case_id": 4,
+      "name": "先修課程檢測",
+      "status": "PASS"
+    },
+    {
+      "case_id": 5,
+      "name": "容量超額檢測",
+      "status": "PASS"
+    },
+    {
+      "case_id": 6,
+      "name": "混合型審核：衝突被自動檢測",
+      "status": "PASS"
+    },
+    {
+      "case_id": 7,
+      "name": "R3 系主任只能看自己系的資料",
+      "status": "PASS"
+    },
+    {
+      "case_id": 8,
+      "name": "R2 教授只能看自己教的課",
+      "status": "PASS"
+    },
+    {
+      "case_id": 9,
+      "name": "R4 教務人員可以審核全校衝突",
+      "status": "PASS"
+    },
+    {
+      "case_id": 10,
+      "name": "R5 管理員擁有所有權限",
+      "status": "PASS"
+    }
+  ]
+}

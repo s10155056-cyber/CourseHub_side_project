@@ -1,0 +1,23 @@
+# CourseHub 依賴管理
+
+# Web Framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Database
+# SQLite 已內建於 Python
+
+# Optional: AI/Foundry Integration
+# requests==2.31.0
+# anthropic==0.7.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Development
+python-dotenv==1.0.0
+
+# Production
+gunicorn==20.1.0
+
